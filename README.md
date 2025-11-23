@@ -13,9 +13,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
-
-**Theory**
-
 **Logic Diagram**
 <img width="1024" height="883" alt="image" src="https://github.com/user-attachments/assets/af764848-b37b-4c75-a832-11fb01688050" />
 
@@ -48,8 +45,8 @@ Developed by: RegisterNumber:25017133
 **RTL realization**
 
 **Output:**
+**Table**
 
-Table
 <img width="513" height="1280" alt="image" src="https://github.com/user-attachments/assets/f978b74e-9a03-48b4-a4d7-57429baed0e2" />
 
 **RTL**
